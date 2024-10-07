@@ -1,0 +1,61 @@
+## When jail break successfull!
+ServerCommand1: "fill -2102 37 -2086 -2103 36 -2087 minecraft:air"
+ServerCommand2: "particle minecraft:explosion -2102 37 -2087"
+
+## Prison commands
+## You can use %PLAYER% for target player (format: /Prisonjail )
+
+
+Prison1-command1: "fill -2097 36 -2115 -2097 37 -2115 minecraft:iron_bars"
+Prison1-command2: "teleport %PLAYER% -2094 36 -2115"
+
+Prison2-command1: "fill -2103 36 -2117 -2103 37 -2117 minecraft:iron_bars"
+Prison2-command2: "teleport %PLAYER% -2105 36 -2117"
+
+Prison3-command1: "fill -2103 36 -2112 -2103 37 -2112 minecraft:iron_bars"
+Prison3-command2: "teleport %PLAYER% -2104 36 -2111"
+
+Prison4-command1: "fill -2097 36 -2107 -2097 37 -2107 minecraft:iron_bars"
+Prison4-command2: "teleport %PLAYER% -2094 36 -2106"
+
+Prison5-command1: "fill -2100 36 -2104 -2100 37 -2104 minecraft:iron_bars"
+Prison5-command2: "teleport %PLAYER% -2099 36 -2101"
+
+Prison6-command1: "fill -2113 36 -2110 -2113 37 -2110 minecraft:iron_bars"
+Prison6-command2: "teleport %PLAYER% -2113 36 -2113"
+
+Prison7-command1: "fill -2120 36 -2110 -2120 37 -2110 minecraft:iron_bars"
+Prison7-command2: "teleport %PLAYER% -2118 36 -2112"
+
+Prison8-command1: "fill -2113 36 -2100 -2113 37 -2100 minecraft:iron_bars"
+Prison8-command2: "teleport %PLAYER% -2113 36 -2097"
+
+Prison9-command1: "fill -2119 37 -2100 -2120 36 -2100 minecraft:iron_bars"
+Prison9-command2: "teleport %PLAYER% -2119 36 -2096"
+
+Prison10-command1: "fill -2115 43 -2099 -2115 44 -2099 minecraft:iron_bars"
+Prison10-command2: "teleport %PLAYER% -2114 43 -2097"
+
+Prison11-command1: "fill -2108 43 -2103 -2108 44 -2103 minecraft:iron_bars"
+Prison11-command2: "teleport %PLAYER% -2106 43 -2104"
+
+Prison12-command1: "fill -2108 43 -2099 -2108 44 -2099 minecraft:iron_bars"
+Prison12-command2: "teleport %PLAYER% -2109 43 -2196"
+
+Prison13-command1: "fill -2097 43 -2102 -2097 44 -2102 minecraft:iron_bars"
+Prison13-command2: "teleport %PLAYER% -2108 43 -2096"
+
+Prison14-command1: "fill -2102 43 -2104 -2102 44 -2104 minecraft:iron_bars"
+Prison14-command2: "teleport %PLAYER% -2093 43 -2100"
+
+Prison15-command1: "fill -2092 43 -2115 -2092 44 -2116 minecraft:iron_bars"
+Prison15-command2: "teleport %PLAYER% -2088 43 -2115"
+
+Prison16-command1: "fill -2106 43 -2114 -2106 44 -2114 minecraft:iron_bars"
+Prison16-command2: "teleport %PLAYER% -2106 43 -2110"
+
+Prison17-command1: "fill -2120 43 -2107 -2120 44 -2107 minecraft:iron_bars"
+Prison17-command2: "teleport %PLAYER% -2121 43 -2106"
+
+Prison18-command1: "fill -2120 43 -2103 -2120 44 -2103 minecraft:iron_bars"
+Prison18-command2: "teleport %PLAYER% -2122 43 -2103"

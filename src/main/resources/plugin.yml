@@ -1,0 +1,17 @@
+name: PrisonSystem
+version: '${project.version}'
+main: org.peakimo.prisonsystem.PrisonSystem
+api-version: '1.16'
+commands:
+  prisoner:
+    description: prisoner
+    usage: </prisoner>
+  suspect:
+    description: suspect
+    usage: </suspect (player)>
+  prisonsystem-reload:
+    description: reload config.yml
+    usage: </prisonsystem-reload>
+  PrisonJail:
+    description: prison jail
+    usage: </prisonjail (cell-name) (player)>
