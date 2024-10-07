@@ -3,7 +3,7 @@ ServerCommand1: "fill -2102 37 -2086 -2103 36 -2087 minecraft:air"
 ServerCommand2: "particle minecraft:explosion -2102 37 -2087"
 
 ## Prison commands
-## You can use %PLAYER% for target player (format: /Prisonjail )
+## You can use %PLAYER% for target player (format: /Prisonjail (Prison-name) (player) )
 
 
 Prison1-command1: "fill -2097 36 -2115 -2097 37 -2115 minecraft:iron_bars"
